@@ -1,6 +1,12 @@
 ### Hi there, I'm Megha 👋
 
 Experienced Full Stack developer with a demonstrated history of working in the information technology and services industry. Skilled in PHP, laravel, Vue js ,Reactjs, Nodejs , Mongodb and Object-Oriented Programming (OOPs). Strong engineering professional with a Bachelor of Technology focused in Computer Science from Global Academy Of Technology
+.
+
+Find me on : <a target="_blank" rel="noopener noreferrer" href="https://www.upwork.com/o/profiles/users/~011183a8d6b044c03f/">
+      <img height="20" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/upwork-icon.png" style="max-width:100%;    background-color: #2f333a;">
+</a>
+ 
 Languages and Tools:
 
 <p>
