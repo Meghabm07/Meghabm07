@@ -10,11 +10,9 @@ Find me on : <a target="_blank" rel="noopener noreferrer" href="https://www.upwo
 Languages and Tools:
 
 <p>
-  <code>
     <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
         <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;    background-color: #2f333a;">
     </a>
-  </code>
   &nbsp;&nbsp;
   <code>
     <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/php.png">
