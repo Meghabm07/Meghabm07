@@ -6,14 +6,6 @@ JavaScript, React and Redux, Express.js, Next.js, HTML, CSS, and SQL. Proven abi
 code and collaborate effectively in cross-functional teams. Committed to continuous learning and staying
 updated with the latest technologies.
 
-Find me on : <a target="_blank" rel="noopener noreferrer"
-    href="https://www.upwork.com/o/profiles/users/~011183a8d6b044c03f/">
-    <img height="20" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/upwork-icon.png"
-        style="max-width:100%;    background-color: #2f333a;">
-</a>
-
-[![Readme
-Card](https://github-readme-stats.vercel.app/api?username=meghabm07&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0c0f14)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 [![Top
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meghabm07&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0c0f14)](https://github.com/anuraghazra/github-readme-stats)
